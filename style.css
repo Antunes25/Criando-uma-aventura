@@ -1,6 +1,13 @@
 body {
     background-color: #ff69b4;
     color: #ffe2f2;
-    font-family: "Chewy", system-ui;
+    font-family: "Archivo Black", sans-serif;
 
+}
+
+button {
+    color: #ffa8d8;
+    border-color: #ff69b4;
+    font-family: "Archivo Black", sans-serif;
+    background-color: #f81e8b;
 }
